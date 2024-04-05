@@ -1,0 +1,350 @@
+Care este suprafata unui disc a carui raza este egala cu PI?
+EASY
+PI^3
+2PI
+10
+PI^2+2PI+1
+
+Care este suprafata unui disc a carui raza este egala cu 10?
+EASY
+100PI
+10
+PI+10
+10/PI
+
+Care este suprafata unui disc a carui raza este egala cu 12,5?
+EASY
+156.25PI
+25PI
+25PI^2
+25/2PI
+
+Care este raza unui cerc a carui suprafata este egala cu 64*PI?
+MEDIUM
+8
+32
+2
+8PI
+
+Care este raza unui cerc care are suprafata egala cu PI^5?
+MEDIUM
+PI^2
+1/PI
+PI
+e^2
+
+Care este raza unui cerc a carui suprafata este egala cu 36?
+MEDIUM
+6/sqrt(PI)
+6
+6PI
+3PI^-1
+
+Cum se numeste linia care intersecteaza un cerc intr-un punct?
+EASY
+tangenta
+paralela
+singleton
+netangenta
+
+Cum se numeste linia care intersecteaza un cerc in doua puncte?
+EASY
+secanta
+tangenta
+perpendiculara
+bilaterala
+
+Cum se numeste linia care intersecteaza un cerc in niciun punct?
+EASY
+externa
+tangenta
+extrapolata
+paralela
+
+Care este proprietatea unei tangente la cerc?
+MEDIUM
+Este perpendiculara pe raza.
+Intersecteaza cercul in doua puncte.
+Trece prin mijlocul cercului.
+Ecuatia sa este intotdeauna x=0.
+
+Care este valoarea diametrului unui cerc de raza r?
+EASY
+2*r
+r^2
+4r/5
+PI*r
+
+Care este valoarea raportului dintre lungimea si diametrul unui cerc?
+EASY
+PI
+e
+raportul de aur
+1
+
+Care este ecuatia unui cerc care are originea in originea sistemului xOy si raza r?
+HARD
+x^2+y^2=r^2
+(x-y)^2=r
+x^2+y^2=2r
+x^2-y^2=r
+
+Care este ecuatia unui cerc care are originea in originea sistemului xOy si raza 5?
+HARD
+x^2+y^2=25
+(x-5y)^2=5
+x^2+y^2=10
+(x/5)^2-(y/5)^2=5
+
+Care este ecuatia unui cerc care are originea in punctul sistemului P(3,-5) si raza 1?
+HARD
+(x-3)^2+(y+5)^2=1
+(x+3)^2+(y-5)^2=1
+3x^2-5y^2+1=0
+(x-y)^3=1/(-5)
+
+Care este valoarea diametrului unui cerc de raza 8?
+EASY
+16
+2
+4
+4PI
+
+Care este valoarea diametrului unui cerc de raza 1?
+EASY
+2
+1
+0.5
+PI
+
+Cat de mare este unghiul unui cerc?
+EASY
+360 grade
+PI grade
+1 grade
+180 grade
+
+Care este suprafata unei sectiuni a unui cerc cu raza 5 si un unghi de 60 de grade?
+HARD
+25*PI/6
+5PI/36
+PI^2/360
+25/60
+
+Care este suprafata unei sectiuni a unui cerc cu raza 5 si un unghi de 180 de grade?
+HARD
+25*PI/2
+25/2
+45
+45PI
+
+Cum se numeste un sector al unui cerc de 180 de grade?
+MEDIUM
+semicerc
+cerc median
+sector
+jumatate de inel
+
+Care este valoarea unghiului de la origine in raport cu arcul sau corespunzator?
+MEDIUM
+aceeasi valoare
+dublarea valorii
+arc+180
+jumatate din valoare
+
+Care este valoarea unghiului de pe cerc in raport cu arcul sau corespunzator?
+MEDIUM
+jumatate din valoare
+dublul valorii
+aceeasi valoare
+arc^2/360
+
+In figura de mai jos, cercul de centru O1 are raza de 3 cm, iar cercul de centru O2 are raza de 7 cm. Care este lungimea lui O1O2?
+HARD
+10 cm
+4 cm
+8 cm
+11.5 cm
+figure1.png
+In figura de mai jos, cercul de centru O1 are raza de 5 cm, iar cercul de centru O2 are raza de 14 cm. Care este lungimea lui O1O2?
+HARD
+9 cm
+19 cm
+10 cm
+4 cm
+figure2.png
+In figura de mai jos, tangentele t1 si t2 intersecteaza cercul in T1 si, respectiv, T2. Care este relatia dintre AT1 si AT2?
+HARD
+AT1=AT2
+AT1 este perpendiculara pe AT2
+AT1 || AT2
+AT1+AT2=2R, unde R este raza cercului
+figure3.png
+Intr-un triunghi echilateral, raza cercului inscris are urmatoarea formula (a reprezinta lungimea laturilor):
+HARD
+a*sqrt(3)/6
+a^2*sqrt(3)/4
+a^2*sqrt(6)/2
+a/2
+
+Intr-un triunghi echilateral, raza cercului circumscris are urmatoarea formula:
+HARD
+a*sqrt(3)/3
+2a/3
+a^2*sqrt(3)/4
+a*sqrt(3)/4
+
+Mediatoarele d1 si d2 ale unui triunghi DEF se intersecteaza in punctul B. Ce proprietate are punctul B?
+EASY
+Este centrul cercului circumscris corespunzator lui DEF.
+Este centrul cercului inscris corespunzator lui DEF.
+Este mijlocul liniei EF.
+Este centroidul triunghiului DEF.
+
+Bisectoarele AA1 si BB1 ale triunghiului ABC se intersecteaza in punctul S. Ce proprietate are punctul S?
+EASY
+Acesta este centrul cercului inscris corespunzator lui ABC.
+Este centrul cercului circumscris corespunzator lui ABC.
+Este punctul final al medianei care porneste de la C.
+Intotdeauna se afla pe partea BC.
+
+Fraza care descrie corect relatia dintre cercurile din imaginea de mai jos este:
+MEDIUM
+Cercurile sunt tangente din exterior.
+Cercurile sunt tangente in interior.
+Cercurile au doua puncte comune.
+Cercurile sunt exterioare unul fata de celalalt.
+figure10.png
+Fraza care descrie corect relatia dintre cercurile din imaginea de mai jos este:
+MEDIUM
+Cercurile sunt secante.
+Cercurile sunt tangente in interior.
+Cercurile nu au puncte comune.
+Cercurile au acelasi centru.
+figure11.png
+Fraza care descrie corect relatia dintre cercurile din imaginea de mai jos este:
+MEDIUM
+Cercurile sunt concentrice.
+Inelul are suprafata egala cu 0.
+Cercurile au suprafetele egale.
+Cercurile sunt tangente in interior.
+figure12.png
+Fraza care descrie corect relatia dintre cercurile din imaginea de mai jos este:
+MEDIUM
+Cercurile sunt tangente in interior.
+Cercurile sunt tangente la exterior.
+Cercurile au raze egale.
+Cercurile nu se afla in acelasi plan.
+figure13.png
+Expresia care descrie corect relatia dintre linia si cercul de mai jos este:
+MEDIUM
+Linia este tangenta la cerc.
+Linia este paralela cu cercul.
+Linia si cercul sunt necoplanare.
+Linia si cercul nu au puncte comune.
+figure7.png
+Expresia care descrie corect relatia dintre linia si cercul de mai jos este:
+MEDIUM
+Linia este secanta la cerc.
+Linia este exterioara cercului.
+Dreapta si cercul au o infinitate de puncte comune.
+Dreapta determina trei sectoare ale cercului.
+figure8.png
+Cuvintele care completeaza corect fraza `Un _________ este un caz particular al __________ care trece prin centrul cercului.` sunt:
+EASY
+diametru, coarda
+raza, coarda
+coarda, diametru
+raza, diametru
+
+Cate axe de simetrie are un cerc?
+EASY
+infinit
+8
+1
+4
+
+Care este valoarea unghiului BAC din figura de mai jos, avand in vedere ca BC este un diametru?
+MEDIUM
+90 grade
+60 grade
+180 grade
+75 grade
+figure4.png
+Care este valoarea unghiului ABC din figura de mai jos, avand in vedere ca BC este un diametru, iar AB=AC?
+MEDIUM
+45 grade
+30 grade
+90 grade
+80 grade
+
+Care este relatia dintre un triunghi si cercul sau interior?
+MEDIUM
+Laturile sunt tangente la cerc.
+Laturile sunt secante la cerc.
+Ele au acelasi perimetru.
+Aria cercului este jumatate din aria triunghiului.
+
+Daca DEFG este un cuadrilater circumscris, care este relatia dintre laturile sale?
+HARD
+DE+FG=DG+EF
+DE-FG=DG-EF
+DE+FG+DG=EF
+DE=FG/2,EF/2=DG
+
+Daca XYZW este un cuadrilater circumscris, care este relatia dintre unghiurile sale?
+HARD
+X+Z=Y+W
+X*Y=Z*W
+X-Y=Z-W
+X+Y+Z+W=180
+
+Cum se numesc doua cercuri care au acelasi centru?
+MEDIUM
+concentrice
+perpendiculare
+interpolate
+concentrate
+
+In figura de mai jos, culoarea rosie marcheaza un _________, culoarea verde un _________, iar culoarea albastra un _________.
+EASY
+coarda, sector, segment
+diametru, segment, semicerc
+coarda, felie, segment
+segment, coarda, sector
+figure6.png
+Cum se numeste zona delimitata de doua cercuri concentrice?
+HARD
+coroana
+gogoasa
+inel
+elipsa
+
+Care este raza si directia cercului triponometric?
+HARD
+r=1,in sens invers acelor de ceasornic
+r=pi,in sensul acelor de ceasornic
+r=1,in sensul acelor de ceasornic
+r=cot(PI),in sens invers acelor de ceasornic
+
+Daca raza unui cerc este marita de patru ori, de cate ori creste aria?
+HARD
+16 ori
+2 ori
+4 ori
+8 ori
+
+Daca raza unui cerc se micsoreaza de trei ori, de cate ori se micsoreaza aria?
+HARD
+9 ori
+3 ori
+27 ori
+2 ori
+
+Expresia care descrie corect relatia dintre linia si cercul de mai jos este:
+MEDIUM
+Linia este exterioara cercului.
+Linia este paralela cu cercul.
+Cercul si linia sunt necoplanare.
+Linia si cercul au cel putin un punct comun.
+figure9.png

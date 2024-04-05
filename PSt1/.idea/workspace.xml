@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9f9ee2b3-b43a-4f08-9a54-7af0269f3cdf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/00000000000.xd" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copilot/chatSessions/00000000000.xd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/xd.lck" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copilot/chatSessions/xd.lck" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/66592812-3a33-4f5d-bfeb-2bddf2dc3cb5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/66592812-3a33-4f5d-bfeb-2bddf2dc3cb5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/presenter/AdminP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/presenter/AdminP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/view/resurse/Desenare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/view/resurse/Desenare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/conectBDpersis/EleviTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/conectBDpersis/EleviTeste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/presenter/AdminP.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/presenter/AdminP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/conectBDpersis/EleviTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/conectBDpersis/EleviTeste.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2drcj1rF2laAZCSg7wzANnB3DKm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.All in PSt1.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EleviTeste.deleteStudent.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EleviTeste.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EleviTeste.findStudentByNickname.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/FABIAN/Desktop/Tema1PS/PSt1/src/test/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/FABIAN/Desktop/Tema1PS/PSt1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="All in PSt1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PSt1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EleviTeste.deleteStudent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PSt1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="conectBDpersis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="conectBDpersis" />
+      <option name="MAIN_CLASS_NAME" value="conectBDpersis.EleviTeste" />
+      <option name="METHOD_NAME" value="deleteStudent" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EleviTeste.findStudentByNickname" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PSt1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="conectBDpersis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="conectBDpersis" />
+      <option name="MAIN_CLASS_NAME" value="conectBDpersis.EleviTeste" />
+      <option name="METHOD_NAME" value="findStudentByNickname" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in PSt1" />
+        <item itemvalue="JUnit.EleviTeste.deleteStudent" />
+        <item itemvalue="JUnit.EleviTeste.findStudentByNickname" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-19.0.2-corretto-19.0.2-f644763e9732-1e16d6ec" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f9ee2b3-b43a-4f08-9a54-7af0269f3cdf" name="Changes" comment="" />
+      <created>1710769770201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710769770201</updated>
+      <workItem from="1710769773058" duration="2405000" />
+      <workItem from="1710772223957" duration="660000" />
+      <workItem from="1710773395386" duration="446000" />
+      <workItem from="1710833706480" duration="264000" />
+      <workItem from="1710834096388" duration="113000" />
+      <workItem from="1710843087032" duration="850000" />
+      <workItem from="1710852331261" duration="1501000" />
+      <workItem from="1710858019285" duration="383000" />
+      <workItem from="1710860544391" duration="2000000" />
+      <workItem from="1710888668425" duration="1323000" />
+      <workItem from="1710895065455" duration="1541000" />
+      <workItem from="1710914427305" duration="7712000" />
+      <workItem from="1710922542682" duration="597000" />
+      <workItem from="1710923850787" duration="1459000" />
+      <workItem from="1710926213111" duration="815000" />
+      <workItem from="1710933072767" duration="7870000" />
+      <workItem from="1710948600938" duration="4716000" />
+      <workItem from="1710953444129" duration="2530000" />
+      <workItem from="1710956116558" duration="1375000" />
+      <workItem from="1710957562912" duration="5640000" />
+      <workItem from="1710963461163" duration="619000" />
+      <workItem from="1710964251845" duration="130000" />
+      <workItem from="1710964468059" duration="1655000" />
+      <workItem from="1710966205519" duration="680000" />
+      <workItem from="1710976293879" duration="3889000" />
+      <workItem from="1710995808022" duration="1934000" />
+      <workItem from="1711004771601" duration="103000" />
+      <workItem from="1711007023786" duration="66000" />
+      <workItem from="1711007251983" duration="316000" />
+      <workItem from="1711007853394" duration="70000" />
+      <workItem from="1711011801872" duration="122000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
